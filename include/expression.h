@@ -20,7 +20,7 @@ namespace homework_oct6
      */
     virtual double evaluate() const = 0;
 
-    // Virtual destructor to ensure proper cleanup of derived objects
+    // Destructor
     virtual ~Expression() = default;
   };
 
