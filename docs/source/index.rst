@@ -6,7 +6,7 @@ Welcome to the landing page!
 A section
 ----------
 
-.. doxygennamespace:: homework
+.. doxygennamespace:: homework_oct6
 
 
 Docs
